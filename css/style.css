@@ -68,19 +68,19 @@
 
 :root {
     --light-yellow: #f3f5ff;
-    --primery: #7a3df7;
+    --primery: #582e6d;
     --dark-black: #1b044a;
     --dark-greay: #9599ab;
-    --dark-more: #1b0e35;
+    --dark-more: #15132e;
     --greay: #afafaf;
     --text-greay: #848484;
     --black: #000000;
-    --bg-white: #ffffff;
+    --bg-white: #fff;
     --text-white: #fff;
     --red-color: #ff0000;
     --light-greay: #dddfea;
-    --gradient: linear-gradient(74deg, rgba(122,61,247,1) 0%, rgba(232,123,156,1) 100%);
-    --gradient-reverce: linear-gradient(74deg, rgba(232,123,156,1) 0%, rgba(122,61,247,1) 100%);
+    --gradient: linear-gradient(135deg, #1c2646 0%, #000000 100%);
+    --gradient-reverce: linear-gradient(135deg, #1c2646 0%, #000000 100%);
 }
 
 /* ------Common-Css------------- */

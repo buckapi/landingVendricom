@@ -1,11 +1,11 @@
 :root {
     --light-yellow: #f3f5ff;
-    --primery: #7a3df7;
+    --primery: #582e6d;
     --dark-black: #1b044a;
     --dark-greay: #9599ab;
     --black: #000000;
     --text-white: #ffffff;
-    --bg-white: #ffffff;
+    --bg-white: #fff;
 }
 
 /* ------Media-Query-Start--------- */
